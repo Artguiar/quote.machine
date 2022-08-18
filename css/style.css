@@ -1,0 +1,40 @@
+body {
+  padding: 10rem;
+  color: rgb(237, 243, 236);
+  background-color: lightseagreen;
+ 
+}
+
+.bg {
+  background-color: rgb(58, 118, 185);
+
+
+}
+
+#quote-box {
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  }
+
+#text {
+  font-size: 3.5rem;
+}
+
+#author {
+  font-size: 2.8rem;
+  text-align: center;
+  padding: 3%
+}
+
+#buttons {
+  position: sticky;
+  padding: 2.5vw;
+  margin: 2.5vw;
+}
+
+footer {
+  color: rgb(7, 68, 138);
+  text-align: center;
+  font-size: 2rem;
+}
